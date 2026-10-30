@@ -136,7 +136,8 @@ appnexus.com, 12690, RESELLER
 triplelift.com, 14566, RESELLER, 6c33edb13117fd86
 rubiconproject.com, 22544, RESELLER, 0bfd66d529a55807
 smoot.ai, 100118, RESELLER
-lijit.com, 497492, RESELLER, fafdf38b16bf6b2b# Yandex
+lijit.com, 497492, RESELLER, fafdf38b16bf6b2b
+# Yandex
 e-planning.net, 2f3a04630ba9ba3f, RESELLER, c1ba615865ed87b2
 pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 27842, RESELLER, 0bfd66d529a55807
